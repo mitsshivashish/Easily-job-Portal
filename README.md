@@ -64,8 +64,7 @@ Below steps have been followed to set up and build the project:
 9. Ensure the code is well-documented for easy understanding of functionalities and organization.
 
 ## Live Website
-- https://easily-job-portal.onrender.com/
-
+- https://easily-job-portal-production.up.railway.app/
 ## Author
 
 - **Shivashish**
